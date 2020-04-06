@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [06/Apr/2020:16:26:52 -0400] "GET /favoriteNumber?number=7 HTTP/1.1" 404 979 http-bio-8080-exec-1 26
+0:0:0:0:0:0:0:1 - - [06/Apr/2020:16:26:58 -0400] "GET /favoriteNumber HTTP/1.1" 404 979 http-bio-8080-exec-2 2
+0:0:0:0:0:0:0:1 - - [06/Apr/2020:16:27:03 -0400] "GET /welcome HTTP/1.1" 200 125 http-bio-8080-exec-3 8
+0:0:0:0:0:0:0:1 - - [06/Apr/2020:16:27:46 -0400] "GET /favoriteNumber?number=7 HTTP/1.1" 404 1007 http-bio-8080-exec-1 26
+0:0:0:0:0:0:0:1 - - [06/Apr/2020:16:29:14 -0400] "GET /favoriteNumber?number=7 HTTP/1.1" 404 1007 http-bio-8080-exec-1 32
+0:0:0:0:0:0:0:1 - - [06/Apr/2020:16:29:14 -0400] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-2 2
+0:0:0:0:0:0:0:1 - - [06/Apr/2020:16:29:15 -0400] "GET /favoriteNumber?number=7 HTTP/1.1" 404 1007 http-bio-8080-exec-3 1
+0:0:0:0:0:0:0:1 - - [06/Apr/2020:16:29:15 -0400] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [06/Apr/2020:16:29:16 -0400] "GET /favoriteNumber?number=7 HTTP/1.1" 404 1007 http-bio-8080-exec-5 1
+0:0:0:0:0:0:0:1 - - [06/Apr/2020:16:29:16 -0400] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-6 1
+0:0:0:0:0:0:0:1 - - [06/Apr/2020:16:29:50 -0400] "GET /favoriteNumber?number=7 HTTP/1.1" 200 179 http-bio-8080-exec-1 643
+0:0:0:0:0:0:0:1 - - [06/Apr/2020:16:29:50 -0400] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-2 2
+0:0:0:0:0:0:0:1 - - [06/Apr/2020:16:30:19 -0400] "GET /favoriteNumber?number=1101 HTTP/1.1" 200 182 http-bio-8080-exec-3 2
+0:0:0:0:0:0:0:1 - - [06/Apr/2020:16:33:09 -0400] "GET /favoriteNumber?number=1 HTTP/1.1" 200 179 http-bio-8080-exec-5 3
